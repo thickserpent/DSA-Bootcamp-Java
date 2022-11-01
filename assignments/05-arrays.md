@@ -5,8 +5,8 @@
 ### Easy
 1. [Build Array from Permutation]
 2. [Concatenation of Array]
-3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+3. [Running Sum of 1d Array]
+4. [Richest Customer Wealth]
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
