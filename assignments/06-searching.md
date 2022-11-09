@@ -1,15 +1,15 @@
 # Videos:
-- [Linear Search](https://youtu.be/_HRA37X8N_Q)
-- [Binary Search](https://youtu.be/f6UU7V3szVw)
+- [Linear Search]
+- [Binary Search]
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
 - [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo)
 
 # Problems:
 
 ## Easy
-- [Square Root](https://leetcode.com/problems/sqrtx/)
-- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [Square Root]
+- [Guess Number Higher or Lower]
+- [First Bad Version]
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
