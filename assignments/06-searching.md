@@ -15,7 +15,7 @@
 - [Arranging Coins(Easy)]
 - [Find Smallest Letter Greater Than Target]
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Search Insert Position]
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
