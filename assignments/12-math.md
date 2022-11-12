@@ -8,7 +8,7 @@
 - [Happy Number.](https://leetcode.com/problems/happy-number/)
 - [Armstrong Numbers ]
 - [Power of Four]
-- [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)
+- [Factorial]
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
