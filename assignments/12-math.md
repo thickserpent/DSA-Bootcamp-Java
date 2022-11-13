@@ -12,7 +12,7 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+- [Self Dividing Numbers]
 - [Add Binary](https://leetcode.com/problems/add-binary/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
 
